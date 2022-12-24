@@ -57,6 +57,9 @@
     status = "okay";
 };
 
+&mt {
+    retro-tap;
+};
 
 / {
         keymap {
