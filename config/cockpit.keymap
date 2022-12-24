@@ -57,7 +57,7 @@
     status = "okay";
 };
 
-&mt {
+&lt {
     retro-tap;
 };
 
