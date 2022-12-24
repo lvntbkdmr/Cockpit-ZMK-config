@@ -179,8 +179,8 @@
 
 
                         bindings = <
-   &kp ESC &trans &trans &trans &trans &trans                    &trans &trans &trans &trans &trans &trans
-   &trans  &trans &trans &trans &trans &trans                    &trans &trans &trans &trans &trans &trans
+   &kp ESC &kp LG(1) &kp LG(2) &kp LG(3) &kp LG(4) &kp LG(5)     &trans &trans &trans &trans &trans &trans
+   &trans  &kp LG(6) &kp LG(7) &kp LG(8) &kp LG(9) &kp LG(0)     &trans &trans &trans &trans &trans &trans
    &trans  &trans &trans &trans &trans &trans                    &trans &trans &trans &trans &trans &trans
                                             &kp C_PLAY_PAUSE  &kp C_MUTE
                            &trans  &mo LOWER &lt FNL SPACE              &trans  &trans   &trans
